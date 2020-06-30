@@ -1,4 +1,6 @@
-const cases = {
+(function(){
+
+  const cases = {
     'a': 'Alpha',
     'b': 'Bravo',
     'c': 'Charlie',
@@ -37,4 +39,7 @@ const cases = {
     '9': 'Niner',
     ' ': ' • '
   };
+
+})
+
 
