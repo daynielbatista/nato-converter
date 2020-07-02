@@ -47,7 +47,7 @@
 }
 
 
-  for (var i=0; i < text.length; i++)
+ /* for (var i=0; i < text.length; i++)
   {
       switch (text.charAt(i))
       {
@@ -91,7 +91,7 @@
           case ' ': results = results + newline + newline; break;
           default: results = results + text.charAt(i) + ' ';
       }
-  }
+  }*/
   
   return results;
 }
