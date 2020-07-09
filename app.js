@@ -1,5 +1,6 @@
 (function(){
-
+   let x = 0;
+   let y = 0;
   /*const cases = {
     'a': 'Alpha',
     'b': 'Bravo',
