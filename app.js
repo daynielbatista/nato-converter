@@ -45,6 +45,9 @@
     document.getElementById('conversionResults').innerHTML = textToNato(textToConvert);
 }
 
+function concatenar() {
+  var text = text + textToConvert;
+}
 
 
 });
